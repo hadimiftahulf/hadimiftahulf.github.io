@@ -23,9 +23,6 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: "Hadi Miftahul Fadly - Portfolio",
   description: "Senior Fullstack Developer Portfolio",
-  icons: {
-    icon: "/favicon.png",
-  },
 };
 
 export default function RootLayout({
