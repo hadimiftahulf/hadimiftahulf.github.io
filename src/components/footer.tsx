@@ -109,7 +109,7 @@ export function Footer() {
                 <div className="w-px h-3 bg-white/20" />
                 <span className="text-xs font-mono text-muted-foreground">V 2.5.0</span>
                 <div className="w-px h-3 bg-white/20" />
-                <span className="text-xs font-mono text-muted-foreground">JAKARTA, ID</span>
+                <span className="text-xs font-mono text-muted-foreground">JAWA BARAT, ID</span>
              </div>
 
              <p className="font-medium">
